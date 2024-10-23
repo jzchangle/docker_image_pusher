@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-linuxserver/qbittorrent:4.3.9
+linuxserver/qbittorrent
