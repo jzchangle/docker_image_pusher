@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent:14.3.9
-linuxserver/transmission
+linuxserver/transmission:4.0.5
