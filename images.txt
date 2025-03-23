@@ -7,3 +7,4 @@
 linuxserver/qbittorrent:14.3.9
 linuxserver/transmission:4.0.5
 jxxghp/moviepilot-v2:latest
+
